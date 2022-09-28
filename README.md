@@ -12,3 +12,4 @@
         <item>チョコモナカジャンボ</item>
 </string-array>
 ```
+![MiniAndroidApp04](https://user-images.githubusercontent.com/82198916/192748205-e1532593-8633-4438-baea-e6ea7ced0270.png)
